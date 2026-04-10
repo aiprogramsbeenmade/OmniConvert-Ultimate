@@ -34,7 +34,7 @@ Per il corretto funzionamento, assicurati di avere:
 
 1. **Clona il repository**:
    ```bash
-   git clone [https://github.com/tuo-username/OmniConverter.git](https://github.com/tuo-username/OmniConverter.git)
+   git clone https://github.com/aiprogramsbeenmade/OmniConvert-Ultimate.git
    cd OmniConverter
    ```
 2. **Crea e attiva un ambiente virtuale:**
