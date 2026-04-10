@@ -1,0 +1,28 @@
+# Python - File compilati
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente Virtuale (Fondamentale!)
+venv/
+env/
+.env
+
+# macOS - File di sistema
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OmniConvert - Output e Test
+# Escludiamo la cartella dei risultati per non sporcare il repository
+*.log
+
+# Librerie e Documentazione locale
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+lib
+bin
+outputs

@@ -1,0 +1,34 @@
+# Image Processing
+Pillow
+pillow-heif
+
+# Documents & PDF
+python-docx
+PyMuPDF
+pypandoc
+
+# Data Analysis
+pandas
+openpyxl
+pyarrow
+
+# Audio & Video
+pydub
+moviepy
+ffmpeg-python
+
+# Archives
+py7zr
+patool
+
+# System & UI
+python-dotenv
+
+# Grafica
+PySide6
+
+# PDF a DOCX
+pdf2docx
+
+# PDF a TXT
+pymupdf
